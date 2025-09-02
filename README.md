@@ -1,18 +1,19 @@
-# Engenharia-De-Software2
+# 📘 Projeto FATEC ARARAS: 
 
-Projeto Dedicado ao Coordenador Da FATEC ARARAS Bruno de Americana!
+> Esse Projeto Esta sendo patrocinado pelo nosso Coordenador Favorito Bruno De Americana!
 
+---
 
+## 📌 Outras Coisas
 
-# Contribuidores: 
+-
+- [Contribuidores](https://github.com/PedroSouza77)
+- [Contribuidores](https://github.com/Ademar-Altomani-FATEC)
 
-[text](https://github.com/PedroSouza77)
-[text] (https://github.com/Ademar-Altomani-FATEC)
+---
 
+## 🛠 Tecnologias Utilizadas
 
-
-
-
-
-
+- Framework: **Figma**
+- Versionamento: **Git**
 
