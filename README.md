@@ -4,7 +4,7 @@
 
 ---
 
-## 📌 Outras Coisas
+## 📌 Contribuidores
 
 - [Pedro Souza](https://github.com/PedroSouza77)
 - [Ademar Altomani](https://github.com/Ademar-Altomani-FATEC)
