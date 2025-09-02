@@ -4,7 +4,11 @@ Projeto Dedicado ao Coordenador Da FATEC ARARAS Bruno de Americana!
 
 
 
-Contribuidores: 
+# Contribuidores: 
+
+[text](https://github.com/PedroSouza77)
+[text] (https://github.com/Ademar-Altomani-FATEC)
+
 
 
 
