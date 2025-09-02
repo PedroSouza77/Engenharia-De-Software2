@@ -1,2 +1,14 @@
 # Engenharia-De-Software2
-Projeto Inicial
+
+Projeto Dedicado ao Coordenador Da FATEC ARARAS Bruno de Americana!
+
+
+
+Contribuidores: 
+
+
+
+
+
+
+
