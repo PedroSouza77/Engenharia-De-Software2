@@ -1,0 +1,125 @@
+/* ====== FUNDO E CONFIGURAÇÕES GERAIS ====== */
+body {
+    background-image: url(../Imagens/login.jpg);
+    background-color: #f4f4f4;
+    font-family: 'Segoe UI', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 100vh;
+}
+
+/* ====== TÍTULO PRINCIPAL ====== */
+h1 {
+    font-family: 'Georgia', serif;
+    font-size: 2.8rem;
+    font-weight: bold;
+    color: #111;
+    text-shadow: 1px 1px 3px #fff;
+}
+
+/* ====== LISTAS ====== */
+.list-group-item {
+    background: #ffffffcc;
+    border-radius: 10px !important;
+    margin-bottom: 10px;
+    box-shadow: 0 2px 4px #00000030;
+    transition: 0.2s;
+}
+
+.list-group-item:hover {
+    background: #f5f5f5;
+}
+
+/* ====== BUSCA ====== */
+input.form-control {
+    border-radius: 8px !important;
+    padding: 12px;
+    border: 1px solid #999 !important;
+    background: #fff;
+}
+
+/* ====== BOTÕES PERSONALIZADOS ====== */
+.btn-primary {
+    background-color: #d9382b !important;
+    border: 2px solid #9e1c1c !important;
+    border-radius: 30px !important;
+    font-weight: bold;
+    transition: .15s;
+}
+
+.btn-primary:hover {
+    background-color: #b82118 !important;
+}
+
+.btn-success {
+    background-color: green !important;
+    border-radius: 12px !important;
+    font-weight: bold;
+}
+
+.btn-danger {
+    background-color: #b82118 !important;
+    border-radius: 12px !important;
+}
+
+/* ====== CAIXA PRINCIPAL ====== */
+.col-md-7, .col-md-5 {
+    background: #ffffffcc;
+    padding: 25px;
+    border-radius: 12px;
+    box-shadow: 0 2px 8px #00000030;
+}
+
+/* ====== TÍTULOS DE SESSÃO ====== */
+h3 {
+    font-family: 'Georgia', serif;
+    font-weight: bold;
+    margin-bottom: 20px;
+    color: #111;
+}
+
+/* ====== TOTAL ====== */
+h4 {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #222;
+}
+
+/* ====== FORMULÁRIOS INTERNOS ====== */
+form .form-control {
+    border-radius: 8px !important;
+}
+
+/* ====== CARRINHO ====== */
+.list-group-item strong {
+    font-size: 1rem;
+}
+
+/* ====== FLASH MESSAGES ====== */
+.alert {
+    border-radius: 12px;
+    font-weight: bold;
+    box-shadow: 0 2px 6px #00000030;
+}
+
+/* ====== RESPONSIVIDADE ====== */
+@media (max-width: 768px) {
+    h1 {
+        font-size: 2rem;
+        margin-bottom: 20px;
+    }
+
+    .col-md-7, .col-md-5 {
+        padding: 15px;
+    }
+
+    .list-group-item {
+        padding: 12px;
+    }
+
+    input.form-control {
+        width: 100%;
+    }
+}
